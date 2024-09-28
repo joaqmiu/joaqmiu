@@ -1,4 +1,4 @@
-<p align="center">Somente um curioso...</p>
+## Somente um curioso...
 
 ###
 
